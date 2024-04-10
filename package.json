@@ -1,0 +1,27 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Curso de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DjGarcia4/Curso_Node.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "Jared Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DjGarcia4/Curso_Node/issues"
+  },
+  "homepage": "https://github.com/DjGarcia4/Curso_Node#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
